@@ -1,0 +1,13 @@
+module.exports = {
+  presets: ['@babel/preset-env', '@babel/preset-react', 'mobx', '@babel/preset-typescript'],
+  // plugins: [
+  //   [
+  //     'import',
+  //     {
+  //       libraryName: 'antd',
+  //       libraryDirectory: 'es',
+  //       style: true,
+  //     },
+  //   ],
+  // ],
+}
